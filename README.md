@@ -10,3 +10,5 @@ NIA    | User name | Repo | Improvement | Score
 680239 | Darío Sánchez | https://github.com/dari1495/lab6-microservices/tree/test | |
 684146| Iván Escuín González | https://github.com/crzyivo/lab6-microservices/tree/test | |
 453948 | Mario Navarro Claras | [Repository](https://github.com/mnclaras/lab6-microservices/tree/test) | |
+699329 | David Fustero | https://github.com/fiusa8/lab6-microservices/tree/test | |
+
