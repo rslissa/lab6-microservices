@@ -10,5 +10,6 @@ NIA    | User name | Repo | Improvement | Score
 680239 | Darío Sánchez | https://github.com/dari1495/lab6-microservices/tree/test | |
 684146| Iván Escuín González | https://github.com/crzyivo/lab6-microservices/tree/test | |
 453948 | Mario Navarro Claras | [Repository](https://github.com/mnclaras/lab6-microservices/tree/test) | |
+699329 | David Fustero | https://github.com/fiusa8/lab6-microservices/tree/test | |
 652062| Pedro Fortón Rubio | https://github.com/Concatenacion/lab6-microservices/tree/test | |
 702089 | Jorge Martínez Romanos | ![Repo](https://github.com/jmromanos/lab6-microservices/tree/test) | Proposal: Retry failed petitions to avoid error message |
