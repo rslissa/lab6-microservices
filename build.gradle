@@ -1,13 +1,10 @@
 buildscript {
-    ext {
-        springBootVersion = '1.5.9.RELEASE'
-    }
     repositories {
         mavenCentral()
     }
     dependencies {
-        classpath("io.spring.gradle:dependency-management-plugin:1.0.2.RELEASE")
-        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+        classpath("io.spring.gradle:dependency-management-plugin:1.0.5.RELEASE")
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:2.0.6.RELEASE")
     }
 }
 
@@ -26,12 +23,10 @@ subprojects {
     repositories {
         mavenCentral()
     }
-
-    repositories { mavenCentral() }
-
+    
     dependencyManagement {
         imports {
-            mavenBom 'org.springframework.cloud:spring-cloud-dependencies:Edgware.RELEASE'
+            mavenBom 'org.springframework.cloud:spring-cloud-dependencies:Finchley.SR2'
         }
     }
 
